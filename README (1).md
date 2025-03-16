@@ -1,6 +1,7 @@
 Group-25
 Name-1.Himanshi Sharma(055012)
      2.Ankit Sharma(055059)
+
 **Dataset Attributes**
 
 The dataset contains information about Oscar-winning movies, focusing on their cinematic attributes, directors, and critical reception. Key attributes include:
